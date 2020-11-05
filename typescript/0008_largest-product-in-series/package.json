@@ -1,0 +1,12 @@
+{
+  "name": "0008_largest-product-in-series",
+  "version": "1.0.0",
+  "description": "https://projecteuler.net/problem=8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
